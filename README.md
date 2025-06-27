@@ -44,7 +44,6 @@ Identifying different types of flowers can be difficult for beginners. This simp
 ## 🔗 Download the Trained Model
 
 - [📁 View on Google Drive](https://drive.google.com/yourmodelurl)
-- [⬇️ Direct Download](https://drive.google.com/uc?export=download&id=yourfileid)
 
 ---
 
